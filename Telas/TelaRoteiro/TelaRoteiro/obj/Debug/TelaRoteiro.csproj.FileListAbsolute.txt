@@ -1,0 +1,10 @@
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\TelaRoteiro\TelaRoteiro\bin\Debug\TelaRoteiro.exe.config
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\TelaRoteiro\TelaRoteiro\bin\Debug\TelaRoteiro.exe
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\TelaRoteiro\TelaRoteiro\bin\Debug\TelaRoteiro.pdb
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\TelaRoteiro\TelaRoteiro\obj\Debug\TelaRoteiro.csprojAssemblyReference.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\TelaRoteiro\TelaRoteiro\obj\Debug\TelaRoteiro.Form1.resources
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\TelaRoteiro\TelaRoteiro\obj\Debug\TelaRoteiro.Properties.Resources.resources
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\TelaRoteiro\TelaRoteiro\obj\Debug\TelaRoteiro.csproj.GenerateResource.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\TelaRoteiro\TelaRoteiro\obj\Debug\TelaRoteiro.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\TelaRoteiro\TelaRoteiro\obj\Debug\TelaRoteiro.exe
+C:\Users\TEMP.LAPTOP-MMDU8QGH\source\repos\TelaRoteiro\TelaRoteiro\obj\Debug\TelaRoteiro.pdb
